@@ -23,6 +23,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+*{
+	box-sizing: border-box;
+}
+
 body {
 	line-height: 1;
 }
@@ -98,9 +103,11 @@ li {
   padding: 5% 10%;
 }
 .profile-card {
-  background-color: hsla(0, 0%, 100%, .9);
-  border-radius: 80px;
-  box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
+	width: 480px;
+	max-width: calc(100vw - 10px);
+  background-color: hsla(0, 0%, 100%, .8);
+  border-radius:50px;
+  box-shadow: hsla(0, 0%, 0%, .9) 10px 10px 80px;
 }
 .content {
   border-top: 1px solid hsla(0, 0%, 30%, .9);
