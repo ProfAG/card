@@ -53,10 +53,7 @@ table {
   box-sizing: border-box;
   font-size: 100%;
 }
-.profile-card {
-  width: 680px;
-  max-width: calc(100vw - 10px);
-}
+
 body {
   height: 100vh;
   display: flex;
