@@ -62,7 +62,7 @@ body {
   background: url('assets/background.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #f27821;
-  font: 20px arial, sans-serif;
+  font: 17px arial, sans-serif;
 }
 .head,
 .links {
@@ -97,7 +97,7 @@ li {
   margin-bottom: 5%;
 }
 .content {
-  padding: 5% 10%;
+  padding: 5% 5%;
 }
 .profile-card {
 	width: 480px;
