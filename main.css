@@ -62,7 +62,7 @@ body {
   background: url('assets/background.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #f27821;
-  font: 20px arial, sans-serif;
+  font: 15px arial, sans-serif;
 }
 .head,
 .links {
@@ -92,7 +92,7 @@ ul {
 li {
   display: inline;
 }
-.head,
+
 .about {
   margin-bottom: 1%;
 }
