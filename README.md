@@ -1,5 +1,5 @@
  # Profile card
-This is my first profile card project which made for my school.
+This is my first profile card project which made for my school.:mortar_board:
 
 ## Built With
 
