@@ -1,4 +1,4 @@
- # Profile card
+ # Profile card :credit_card:
 This is my first profile card project which made for my school.:mortar_board:
 
 ## Built With
