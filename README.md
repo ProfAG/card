@@ -12,7 +12,7 @@ This is my first profile card project which made for my school.:mortar_board:
 
 https://profag.github.io/card/
 
-**I love coding, Hell Yeah!**
+**I love coding, Hell Yeah!** :heart_decoration:
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
